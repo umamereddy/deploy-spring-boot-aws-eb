@@ -1,6 +1,6 @@
 # Deploy Spring Boot Applications to AWS using Elastic Beanstalk
 
-[![Image](https://www.springboottutorial.com/images/Course-Deploy-Java-Spring-Boot-Apps-To-AWS.png "Deploying Spring Boot Apps to AWS using Elastic Beanstalk")](https://www.udemy.com/course/deploy-java-spring-boot-to-aws-amazon-web-service/)
+(https://www.springboottutorial.com/images/Course-Deploy-Java-Spring-Boot-Apps-To-AWS.png "Deploying Spring Boot Apps to AWS using Elastic Beanstalk")](https://www.udemy.com/course/deploy-java-spring-boot-to-aws-amazon-web-service/)
 
 
 ## Take your first steps towards cloud with AWS Elastic Beanstalk. Deploy REST APIs, Full Stack Applications, Web Applications and Containers to the cloud.
